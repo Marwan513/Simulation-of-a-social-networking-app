@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Marwan/Desktop/Project_20190513_20160122_20160250_20190648_20190421/User.h
+iostream
+-
+cstring
+-
+friends.h
+C:/Users/Marwan/Desktop/Project_20190513_20160122_20160250_20190648_20190421/friends.h
+
+C:/Users/Marwan/Desktop/Project_20190513_20160122_20160250_20190648_20190421/friends.h
+iostream
+-
+cstring
+-
+User.h
+C:/Users/Marwan/Desktop/Project_20190513_20160122_20160250_20190648_20190421/User.h
+
+C:/Users/Marwan/Desktop/Project_20190513_20160122_20160250_20190648_20190421/main.cpp
+User.h
+C:/Users/Marwan/Desktop/Project_20190513_20160122_20160250_20190648_20190421/User.h
+fstream
+-
+sstream
+-
+string
+-
+
